@@ -11,3 +11,13 @@
   <li>CSS</li>
   <li>TailwindCSS</li>
 </ol>
+
+<h2>Features</h2>
+<ul>
+  <li>Sign up and log in section</li>
+  <li>update profile section</li>
+  <li>Firebase authentication</li>
+  <li>App page</li>
+  <li>App Details Page</li>
+
+</ul>
