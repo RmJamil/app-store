@@ -28,3 +28,6 @@
   <li>react icon</li>
   <li>react-router</li>
 </ul>
+
+<h2>Instructions to run locally</h2>
+<p> In order to run any code in a Github repository, you will need to either download it or clone it to your machine. Click the green "clone or download repository" button on the top right of the repository. In order to clone, you will need to have git installed on your computer. Then, follow these instructions. You could also just click download. Once you have it on your machine, how you run the code will depend on you.</p>
