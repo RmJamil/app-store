@@ -21,3 +21,10 @@
   <li>App Details Page</li>
 
 </ul>
+<h2> Dependencies</h2>
+<ul>
+  <li>user email</li>
+  <li>password</li>
+  <li>username</li>
+  <li>profile picture</li>
+</ul>
