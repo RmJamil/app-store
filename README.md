@@ -23,8 +23,8 @@
 </ul>
 <h2> Dependencies</h2>
 <ul>
-  <li>user email</li>
-  <li>password</li>
-  <li>username</li>
-  <li>profile picture</li>
+  <li>tailwindcss</li>
+  <li>daisuUI</li>
+  <li>react icon</li>
+  <li>react-router</li>
 </ul>
